@@ -41,15 +41,11 @@ ol li {
 	width: 950px;
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	font-size: 1em;
-	padding: 10px;
 	text-align: left;
+	padding-left: 30px;
 	
 }
 
-ol {
-	font-weight: bold;
-
-}
 
 img {
 	padding-bottom: 20px;
