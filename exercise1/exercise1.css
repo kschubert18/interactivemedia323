@@ -5,7 +5,8 @@ h1 {
 	margin-left: 10px; 
 	font-size: 3.5em; 
 	text-transform: uppercase;
-
+	padding-top: 15px;
+	padding-bottom: 10px;
 }
 
 h2 {
@@ -21,10 +22,9 @@ h2 {
 #table-of-contents {
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
 	color: #7b5894; 
-	font-weight: 800; 
 	margin-left: 10px; 
-	font-size: 1.5em; 
-	padding: 30px;
+	font-size: 1em; 
+	padding: 10 30 30 30px;
 	text-align: left;
 }
 
@@ -34,7 +34,7 @@ p {
 	font-size: 1em;
 	padding-left: 30px;
 	text-align: left;
-	font-weight: 400;
+	font-weight: 600;
 }
 
 ol li {
@@ -55,3 +55,10 @@ img {
 #summary {
 	font-weight: bold;
 }
+
+a {font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; color: #9577a9; text-decoration: none; font-size: 1em
+	  } 
+	  
+a:hover {color: #7b5894; font-weight: 600}
+a:visited {color:#BA80D4}
+a:active {color: #BA80D4}
