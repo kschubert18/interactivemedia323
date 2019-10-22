@@ -28,3 +28,10 @@ h2 {
 	text-align: left;
 }
 
+p {
+	width: 200px;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 1em;
+	padding: 30px;
+	text-align: left;
+}
