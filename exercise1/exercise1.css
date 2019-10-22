@@ -29,9 +29,10 @@ h2 {
 }
 
 p {
-	width: 200px;
+	width: 900px;
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	font-size: 1em;
 	padding: 30px;
 	text-align: left;
+	text-transform: oblique;
 }
