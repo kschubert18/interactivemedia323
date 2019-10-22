@@ -29,10 +29,19 @@ h2 {
 }
 
 p {
-	width: 900px;
+	width: 950px;
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	font-size: 1em;
-	padding: 30px;
+	padding: 10px 30px 30px 30px;
 	text-align: left;
-	text-transform: oblique;
+	font-weight: 400;
+}
+
+ol li {
+	width: 950px;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 1em;
+	padding: 10px;
+	text-align: left;
+	
 }
