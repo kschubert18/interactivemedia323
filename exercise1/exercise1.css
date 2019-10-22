@@ -1,0 +1,30 @@
+h1 {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: #7b5894; 
+	font-weight: 800; 
+	margin-left: 10px; 
+	font-size: 3.5em; 
+	text-transform: uppercase;
+
+}
+
+h2 {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: #7b5894; 
+	font-weight: 800; 
+	margin-left: 10px; 
+	font-size: 2em; 
+	text-transform: uppercase;
+
+}
+
+.table-of-contents {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: #7b5894; 
+	font-weight: 800; 
+	margin-left: 10px; 
+	font-size: 1.5em; 
+	padding: 30px;
+	text-align: left;
+}
+
