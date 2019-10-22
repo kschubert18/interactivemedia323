@@ -45,3 +45,13 @@ ol li {
 	text-align: left;
 	
 }
+
+ol {
+	font-weight: bold;
+
+}
+
+img {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
