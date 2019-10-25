@@ -2,12 +2,14 @@
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
 	color: white; 
 	margin-left: 10px; 
-	font-size: 1.1em; 
+	font-size: 1.3em; 
     background: #7b5894;
     padding: 10px;;
-    width: 250px;
+    width: 220px;
     z-index: 100;
     position: fixed;
+	line-height: 35px;
+	text-transform: uppercase;
 }
 #table-of-contents a {
 	color: white;
