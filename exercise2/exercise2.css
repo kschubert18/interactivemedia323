@@ -1,0 +1,86 @@
+h1 {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: #7b5894; 
+	font-weight: 800; 
+	margin-left: 10px; 
+	font-size: 4.5em; 
+	text-transform: uppercase;
+	padding-top: 15px;
+	padding-bottom: 0px;
+	padding-left: 320px;
+}
+
+h2 {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: #7b5894; 
+	font-weight: 800; 
+	margin-left: 10px; 
+	font-size: 2em; 
+	text-transform: uppercase;
+	padding-left: 320px;
+	width: 900px
+
+}
+
+#table-of-contents {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: white; 
+	margin-left: 10px; 
+	font-size: 1.1em; 
+    background: #7b5894;
+    padding: 10px;;
+    width: 250px;
+    z-index: 100;
+    position: fixed;
+}
+
+#table-of-contents a {
+	color: white;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	
+}
+
+p {
+	width: 700px;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 1em;
+	padding-left: 380px;
+	text-align: left;
+	font-weight: 600;
+}
+
+ol li {
+	width: 700px;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 1em;
+	text-align: left;
+	padding-left: 2px;
+	
+}
+
+.custom-counter {
+	width: 700px;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-size: 1em;
+	text-align: left;
+	padding-left: 380px;
+}
+
+img {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#summary {
+	font-weight: bold;
+}
+
+a {font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+   color: #9577a9; 
+   text-decoration: none; 
+   font-size: 1em
+} 
+	  
+a:hover {color: #7b5894; font-weight: 600}
+a:visited {color:#BA80D4}
+a:active {color: #BA80D4}
