@@ -1,0 +1,208 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#CBCBCB;
+}
+
+.bluebar {
+	width: 100%;
+	height: 75px;
+	background-color: #1200FF;
+	
+}
+
+.masthead {
+	position: absolute;
+	left: 281px;
+	top: 75px;
+	width: 1370px;
+	height: 495px;
+	background-color: #949494;
+	z-index: -1;
+}
+
+.profilepic {
+	position: absolute;
+	left: 320px;
+	top: 350px;
+	width: 275px;
+	height: 275px;
+	background-color: #C3C3C3;
+	border-radius: 50%;
+	z-index: 3;
+}
+
+.updateinfo {
+	position: absolute;
+	left: 1190px;
+	top: 490px;
+	background-color: #C3C3C3;
+	height: 48px;
+	width: 150px;
+}
+
+.activitylog {
+	position: absolute;
+	left: 1370px;
+	top: 490px;
+	background-color: #C3C3C3;
+	height: 48px;
+	width: 238px;
+}
+
+.whitebar {
+	position: absolute;
+	width: 1370px;
+	height: 78px;
+	background-color: white;
+	top: 570px;
+	left: 281px;
+}
+
+.greybar {
+	position: absolute;
+	width: 1370px;
+	height: 66px;
+	background-color: #949494;
+	top: 671px;
+	left: 281px;
+}
+
+.friendwhitebox {
+	position: absolute;
+	width: 1370px;
+	height: 386px;
+	background-color: white;
+	top: 761px;
+	left: 281px;
+	z-index: 1;
+}
+
+.friend1 {
+	position: absolute;
+	width: 217px;
+	height: 274px;
+	background-color: #949494;
+	top: 787px;
+	left: 325px;
+	z-index: 3;
+}
+
+.friend2 {
+	position: absolute;
+	width: 217px;
+	height: 274px;
+	background-color: #949494;
+	top: 787px;
+	left: 590px;
+	z-index: 3;
+}
+
+.friend3 {
+	position: absolute;
+	width: 217px;
+	height: 274px;
+	background-color: #949494;
+	top: 787px;
+	left: 857px;
+	z-index: 3;
+}
+
+.friend4 {
+	position: absolute;
+	width: 217px;
+	height: 274px;
+	background-color: #949494;
+	top: 787px;
+	left: 1123px;
+	z-index: 3;
+}
+
+.friend5 {
+	position: absolute;
+	width: 217px;
+	height: 274px;
+	background-color: #949494;
+	top: 787px;
+	left: 1389px;
+	z-index: 3;
+}
+
+.bfriend1 {
+	position: absolute;
+	width: 217px;
+	height: 44px;
+	background-color: #1200FF;
+	top: 1077px;
+	left: 325px;
+	z-index: 3;
+}
+
+.bfriend2 {
+	position: absolute;
+	width: 217px;
+	height: 44px;
+	background-color: #1200FF;
+	top: 1077px;
+	left: 590px;
+	z-index: 3;
+}
+
+.bfriend3 {
+	position: absolute;
+	width: 217px;
+	height: 44px;
+	background-color: #1200FF;
+	top: 1077px;
+	left: 857px;
+	z-index: 3;
+}
+
+.bfriend4 {
+	position: absolute;
+	width: 217px;
+	height: 44px;
+	background-color: #1200FF;
+	top: 1077px;
+	left: 1123px;
+	z-index: 3;
+}
+
+.bfriend5 {
+	position: absolute;
+	width: 217px;
+	height: 44px;
+	background-color: #1200FF;
+	top: 1077px;
+	left: 1389px;
+	z-index: 3;
+}
+
+.leftwhite {
+	position: absolute;
+	width: 527px;
+	height: 842px;
+	left: 281px;
+	top: 1179px;
+	background-color: white;
+}
+
+.rightwhite {
+	position: absolute;
+	width: 791px;
+	height: 842px;
+	left: 859px;
+	top: 1179px;
+	background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
