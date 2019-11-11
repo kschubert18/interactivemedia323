@@ -1,0 +1,15 @@
+.nav {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	color: #7b5894;
+	font-weight: 800; 
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.nav a {
+	color: #7b5894;
+}
+
+.nav a:hover {color: #7b5894; font-weight: 600}
+.nav a:visited {color:#BA80D4}
+.nav a:active {color: #BA80D4}
