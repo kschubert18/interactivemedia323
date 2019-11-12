@@ -1,0 +1,210 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 700px;
+	height: 520px;
+	margin: 100px auto;
+	background: #e1eaf7;
+	position: relative;
+}
+
+
+/* Canvas 1 */
+
+.canvas.one {
+	background: #e1eaf7;
+}
+
+.object {
+	position: absolute;
+}
+
+/*bottle */
+
+.lid {
+	height: 19px;
+	width: 60px;
+	top: 90px;
+	left: 220px;
+	background: #80a0cf;
+	position: absolute;
+}
+
+.bottleneck {
+	height: 30px;
+	width: 51px;
+	top: 120px;
+	left: 225px;
+	background: white;
+	position: absolute;
+}
+
+.roundtop {
+	height: 135px;
+	width: 135px;
+	top: 134.5px;
+	left: 185px;
+	background: white;
+	border-radius: 50%;
+	position: absolute;
+
+}
+
+.toprectangle {
+	height: 70px;
+	width: 135px;
+	top: 205px;
+	left: 185px;
+	background: white;
+	position: absolute;
+}
+
+.label {
+	height: 163px;
+	width: 135px;
+	top: 252.5px;
+	left: 185px;
+	background: #80a0cf;
+	position: absolute;
+
+}
+
+.bottomrectangle {
+	height: 99px;
+	width: 135px;
+	top: 383.5px;
+	left: 185px;
+	background: white;
+	position: absolute;
+}
+
+.shadow {
+	height: 30px;
+	width: 200px;
+    background: #b1b1b3;
+    top: 453px;
+    left: 320px;
+    
+    background: -webkit-linear-gradient(left, #bdbdc9, #e1eaf7); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #bdbdc9, #e1eaf7)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #bdbdc9, #e1eaf7); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #bdbdc9), #e1eaf7); /* Standard syntax (must be last) */
+	position: absolute;
+}
+
+
+.horn
+{
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      box-shadow: 15px 15px 0 0 #bdbdc9;
+      top: 220px;
+      left: 215px;
+      position: absolute;
+      transform: rotate(45deg);
+}
+
+.head {
+
+	  height: 80px;
+	  width: 80px;
+	  top: 280px;
+	  left: 215px;
+	  background: white;
+	  border-radius: 50%;
+	  position: absolute;	
+
+}
+
+.pinknose {
+
+	  height: 40px;
+	  width: 40px;
+	  top: 320px;
+	  left: 235px;
+	  background: pink;
+	  border-radius: 50%;
+	  position: absolute;	
+
+}
+
+
+.lefteye {
+	  height: 10px;
+	  width: 10px;
+	  top: 310px;
+	  left: 235px;
+	  background: black;
+	  border-radius: 50%;
+	  position: absolute;	
+}
+
+
+
+.righteye {
+	  height: 10px;
+	  width: 10px;
+	  top: 310px;
+	  left: 265px;
+	  background: black;
+	  border-radius: 50%;
+	  position: absolute;	
+}
+
+
+.leftnostril {
+	  height: 7px;
+	  width: 10px;
+	  top: 328px;
+	  left: 242px;
+	  background: black;
+	  border-radius: 50%;
+	  position: absolute;
+}
+
+.rightnostril {
+	  height: 7px;
+	  width: 10px;
+	  top: 328px;
+	  left: 258px;
+	  background: black;
+	  border-radius: 50%;
+	  position: absolute;
+}
+
+.rightear {
+	  height: 40px;
+	  width: 15px;
+	  top: 300px;
+	  left: 290px;
+	  background: white;
+	  border-radius: 50%;
+	  position: absolute;
+	  transform: rotate(-25deg);
+}
+
+
+.leftear{
+	  height: 40px;
+	  width: 15px;
+	  top: 300px;
+	  left: 205px;
+	  background: white;
+	  border-radius: 50%;
+	  position: absolute;
+	  transform: rotate(25deg);
+}
+
+
+
+
+
+
+
