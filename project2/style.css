@@ -3,7 +3,7 @@
 	color: white; 
 	margin-left: 10px; 
 	font-size: 1.3em; 
-    background: #7b5894;
+    background: lightgrey;
     padding: 10px;;
     width: 220px;
     z-index: 100;
@@ -53,7 +53,7 @@ h1 {
 h2 {
 
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
-	color: #7b5894;  
+	color: lightgrey;  
 	font-weight: 800; 
 	margin-left: 10px; 
 	font-size: 2.3em; 
@@ -84,20 +84,20 @@ img {
 
 
 a {font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
-   color: #9577a9; 
+   color: gray; 
    text-decoration: none; 
    font-size: 1em
 } 
 	  
-a:hover {color: #7b5894; font-weight: 600}
-a:visited {color:#BA80D4}
-a:active {color: #BA80D4}
+a:hover {color: lightgrey; font-weight: 600}
+a:visited {color: gray}
+a:active {color: gray}
 
 .buttons button {
   font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
   font-size: 1em;
   font-weight: 600;
-  background-color: #7b5894;
+  background-color: lightgrey;
   color: white;
   padding: 10px 45px; 
   cursor: pointer; 
@@ -120,7 +120,7 @@ a:active {color: #BA80D4}
 }
 
 .buttons button:hover {
-  background-color: #BA80D4;
+  background-color: gray;
 }
 
 
