@@ -1,3 +1,9 @@
+body{ 
+    opacity: 0;
+    transition: opacity 2s;
+    -webkit-transition: opacity 2s; /* Safari */
+}
+
 #table-of-contents {
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
 	color: white; 
@@ -15,6 +21,23 @@
 	color: white;
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 	
+}
+
+.nav {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
+	color: white; 
+	margin-left: 10px; 
+	font-size: 1.3em; 
+    background: lightgrey;
+    padding: 10px;;
+    width: 220px;
+    line-height: 35px;
+	text-transform: uppercase;
+}
+
+.nav a {
+	color: white;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
 }
 
 p {
@@ -40,7 +63,7 @@ ul.specifics  {
 
 h1 {
 	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; 
-	color: #7b5894; 
+	color: lightgray; 
 	font-weight: 800; 
 	margin-left: 10px; 
 	font-size: 4.5em; 
