@@ -6,7 +6,7 @@
  	font-size: 1.6em; 
     background: lightgray;
 	position: absolute;
-	left: 750px;
+	left: 950px;
 	top: 300px;
     width: 220px;
 	line-height: 30px;
@@ -38,7 +38,7 @@
 img {
 	position: absolute;
 	top: 200px;
-	left: 900px;
+	left: 1200px;
 }
 
 
